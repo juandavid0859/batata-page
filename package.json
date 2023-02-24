@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d batata-page"
+    "deploy": "gh-pages -d src"
   },
   "author": "Juan David Pérez García <juandavid0859@gmail.com>",
   "license": "MIT",
